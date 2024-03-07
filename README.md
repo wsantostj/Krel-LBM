@@ -8,7 +8,8 @@ Krel is an open-source project designed to facilitate fluid simulation processes
 - krel  ```naoseicomo```
 - microton (in your python invironment)  ```pip install microton```
 - mets  ```naoseicomo```
-- paramets  ```pip install```
+- parmets  ```pip install```
+- cuda 
 
 2. Configurate Makefile
 
